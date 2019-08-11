@@ -1,0 +1,9 @@
+{
+  "name": "@actual-ui/core",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel --config-file ../../.babelrc ./src --out-dir ./dist --ignore \"**/*.test.js\""
+  }
+}
