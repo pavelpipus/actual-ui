@@ -6,5 +6,5 @@
   "scripts": {
     "build": "babel --config-file ../../.babelrc ./src --out-dir ./dist --ignore \"**/*.test.js\""
   },
-  "gitHead": "1a04045a412868c5cbbb75ef70b0564225402f69"
+  "gitHead": "100f88124a33452ca3f873200055947f1aded73b"
 }
